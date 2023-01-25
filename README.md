@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @donnaqi
 - 👀 I’m interested in computer science and finance
-- 🌱 I’m currently learning Finance and Economics, with Computer Science
+- 🌱 I’m currently learning Computer Science, Finance and Economics
 - 💞️ I’m looking to collaborate on any Python and Java projects
 - 📫 How to reach me qizhihui07@outlook.com
 
